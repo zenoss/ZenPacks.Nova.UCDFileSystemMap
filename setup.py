@@ -4,7 +4,7 @@
 NAME = "ZenPacks.Nova.UCDFileSystemMap"
 VERSION = "1.2"
 AUTHOR = "Ryan Matte"
-LICENSE = "LGPL"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Nova']
 PACKAGES = ['ZenPacks', 'ZenPacks.Nova', 'ZenPacks.Nova.UCDFileSystemMap']
 INSTALL_REQUIRES = []
